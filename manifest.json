@@ -1,4 +1,8 @@
 {
+ "background_color": "#FFFFFF",
+ "name": "Andrade & Segura Prime - Tour Virtual 360°",
+ "description": "R. Passos Ourique, 110 - Tatuape, São Paulo - SP",
+ "start_url": "index.htm",
  "icons": [
   {
    "sizes": "150x150",
@@ -36,10 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF",
- "start_url": "index.htm",
- "description": "R. Passos Ourique, 110 - Tatuape, São Paulo - SP",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "name": "Andrade & Segura Prime - Tour Virtual 360°"
+ "theme_color": "#FFFFFF"
 }
